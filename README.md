@@ -17,3 +17,23 @@ samples, guidance on mobile development, and a full API reference.
 
 # testapp_getx_flutter
 
+
+## Install Dependencies:
+Run the following command to get all the required dependencies:
+
+* flutter pub get *
+## Running the App
+Connect a Device:
+
+Android: Connect an Android device via USB or start an Android emulator.
+iOS: Connect an iOS device or start an iOS simulator (macOS only).
+Run the App:
+Use the following command to run the app:
+
+## flutter run
+Alternatively, you can run the app from your IDE:
+
+Android Studio: Open the project, select your target device, and click the Run button.
+Visual Studio Code: Open the project, press F5, or use the Run and Debug menu.
+
+
